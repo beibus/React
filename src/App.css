@@ -1,0 +1,11 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.form-login {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+
+}
